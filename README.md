@@ -20,29 +20,6 @@ This is an elegant and feature-rich GUI-based URL Shortener application built wi
 *   **URL Validation:** Basic input validation to ensure you enter a valid URL.
 *   **"Made with ❤️ by Sufyaan"**:  A personal touch indicating the creator.
 
-## 🖼️ Screenshots & GIF
-
-<!-- You can replace this with actual screenshots or a GIF of your application in action -->
-
-**Home Screen:**
-![Screenshot of URL Shortener Home](path/to/your/screenshot-home.png)
-*(Replace `path/to/your/screenshot-home.png` with the actual path to your screenshot)*
-
-**Shortened URL & QR Code:**
-![Screenshot of Shortened URL and QR Code](path/to/your/screenshot-shortened.png)
-*(Replace `path/to/your/screenshot-shortened.png` with the actual path to your screenshot)*
-
-**Shortening History:**
-![Screenshot of Shortening History](path/to/your/screenshot-history.png)
-*(Replace `path/to/your/screenshot-history.png` with the actual path to your screenshot)*
-
-<!-- If you have a GIF, you can embed it like this: -->
-<!--
-![URL Shortener Demo GIF](path/to/your/demo.gif)
-*(Replace `path/to/your/demo.gif` with the actual path to your GIF)*
--->
-
-**[💡 Tip: Create a GIF using tools like [ScreenToGif](https://www.screentogif.com/) or [LICEcap](https://www.cockos.com/licecap/).  Take screenshots of your application in action and replace the placeholder image paths above with your image/GIF paths.]**
 
 ## 🚀 Installation
 
@@ -55,11 +32,9 @@ This is an elegant and feature-rich GUI-based URL Shortener application built wi
 
 1.  **Clone the Repository (if you have one):**
     ```bash
-    git clone [YOUR_GITHUB_REPOSITORY_URL]
-    cd [REPOSITORY_DIRECTORY_NAME]
+    git clone https://github.com/dev-sufyaan/URL-Shortener-Pro.git
+    cd URL Shortener Pro
     ```
-    *(Replace `[YOUR_GITHUB_REPOSITORY_URL]` with your repository URL and `[REPOSITORY_DIRECTORY_NAME]` with your repository folder name, if applicable. If you are just using the Python script directly, skip this step).*
-
 2.  **Install Required Libraries:**
     Open your terminal or command prompt and run the following command to install the necessary Python libraries:
     ```bash
@@ -67,12 +42,10 @@ This is an elegant and feature-rich GUI-based URL Shortener application built wi
     ```
 
 3.  **Run the Application:**
-    Navigate to the directory where you saved the Python script (`elegant_url_shortener.py` or the name you chose) and run it using:
+    Navigate to the directory where you saved the Python script URL Shortener Pro and run it using:
     ```bash
-    python elegant_url_shortener.py
+    python URL Shortener Pro.py
     ```
-
-    *(Replace `elegant_url_shortener.py` with the actual name of your Python script file if you named it differently).*
 
 ## ⚙️ Usage
 
@@ -106,19 +79,6 @@ Made with ❤️ by **Sufyaan**
 
 
 <!-- Optional sections - you can add or remove these as needed -->
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions for improvements or find any bugs, please feel free to open an issue or submit a pull request.
-
-## 🙏 Acknowledgments
-
-*   This project utilizes the awesome [pyshorteners](https://pypi.org/project/pyshorteners/) library for URL shortening functionality.
-*   Thanks to the [Tkinter](https://docs.python.org/3/library/tkinter.html) library for providing the GUI framework.
-*   The [qrcode](https://pypi.org/project/qrcode/) library is used for QR code generation.
-*   [Pillow (PIL)](https://pypi.org/project/Pillow/) is used for image handling in Tkinter.
-*   [pyperclip](https://pypi.org/project/pyperclip/) for clipboard functionality.
-*   [validators](https://pypi.org/project/validators/) for URL validation.
 
 ---
 
